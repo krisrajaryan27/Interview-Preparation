@@ -7,6 +7,7 @@ package com.interview.misc;
 public class PowerOfTwo{
 
     public static void main(String args[]) {
+    	 System.out.println();
         System.out.printf("is %d power of Two? %b%n", 2, isPowerofTwo(2));
         System.out.printf("is %d power of Two? %b%n", 4, isPowerofTwo(4));
         System.out.printf("is %d power of Two? %b%n", 5, isPowerofTwo(5));

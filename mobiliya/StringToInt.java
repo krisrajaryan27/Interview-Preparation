@@ -43,8 +43,8 @@ public class StringToInt {
 		
 		//1
 		System.out.println("\"3256\" == "+convert_String_To_Number("3256"));
-		System.out.println("\"76289\" == "+convert_String_To_Number("76289"));
-		System.out.println("\"90087\" == "+convert_String_To_Number("90087"));
+		//System.out.println("\"76289\" == "+convert_String_To_Number("76289"));
+		//System.out.println("\"90087\" == "+convert_String_To_Number("90087"));
 		
 		//2
 		 String  convertingString="123456";
@@ -54,6 +54,9 @@ public class StringToInt {
 	        System.out.println("");
 	        System.out.println("int value as output "+ output);
 	        System.out.println("");
+	        
+	        String ss = "12345";
+	        Integer.parseInt(ss);
 		
 	}
 }

@@ -4,7 +4,7 @@ package com.interview.altimetrik;
  * Java program to find middle of linked list
  * @url http://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/
  */
- class LinkedList {
+ class LinkedListMiddle {
 	 Node head; // head of linked list
 	 
 	    /* Linked list node */
@@ -65,7 +65,7 @@ package com.interview.altimetrik;
 	 
 	    public static void main(String [] args)
 	    {
-	        LinkedList llist = new LinkedList();
+	        LinkedListMiddle llist = new LinkedListMiddle();
 	        for (int i=5; i>0; --i)
 	        {
 	            llist.push(i);

@@ -1,7 +1,7 @@
 package com.interview.hcl;
 import java.util.Arrays;
 
-import org.apache.commons.lang.ArrayUtils;
+//import org.apache.commons.lang.ArrayUtils;
 
 /**
  *
@@ -21,12 +21,12 @@ public class ReverseArrayExample {
        
         // reverse int array using Apache commons ArrayUtils.reverse() method
         System.out.println("Original int array : " + Arrays.toString(iArray));
-        ArrayUtils.reverse(iArray);
+       // ArrayUtils.reverse(iArray);
         System.out.println("reversed int array : " + Arrays.toString(iArray));
        
         // reverse String array using ArrayUtis class
         System.out.println("Original String array : " + Arrays.toString(sArray));
-        ArrayUtils.reverse(sArray);
+      //  ArrayUtils.reverse(sArray);
         System.out.println("reversed String array in Java : " + Arrays.toString(sArray));        
     }   
    

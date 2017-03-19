@@ -24,6 +24,4 @@ public class CountCharacters {
         }     
         System.out.println("count of character 'a' on String: 'Today is Monday' using for each loop  " + charCount);
     }
-  
-        
 }

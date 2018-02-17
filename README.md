@@ -1,4 +1,4 @@
-# Coding interview preparation for pune location
+# Coding interview preparation  
 * HCL
 * Jade GLobal
 * altimetrik
@@ -7,7 +7,6 @@
 * mobiliya
 * optymyze
 * ptc
-* yagnaiq
-* 
-* 
-* 
+* yagnaiq 
+* Barclays 
+
